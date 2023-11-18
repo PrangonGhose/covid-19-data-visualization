@@ -19,7 +19,6 @@
   - [Install](#install)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
-- [🔭 Future Features](#future-features)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
@@ -109,15 +108,6 @@ $ cd covid-19-data-visualization
 Contributions, issues, and feature requests are welcome! Add suggestions by opening new issues.
 
 Feel free to check the [issues page](https://github.com/PrangonGhose/covid-19-data-visualization/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- Future Features (optional) -->
-
-## 🔭 Future Features <a name="future features"></a>
-
-- [ ] Adding all datasets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
